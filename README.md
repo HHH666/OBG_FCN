@@ -8,6 +8,8 @@ The two-branch network has achieved 87.5% mean IU in PASCAL VOC 2011 validation 
 The OBG-FCN network is built upon Caffe. Thanks to the contributors of Caffe. 
 Thanks @shelhamer, @longjon and @martinkersner for providing the network structure of FCN and CRF as RNN, as well as the evalutaion tools in Caffe and python.
 
+Please cite the paper kindly if you find it helpful in your work (arXiv:1603.09742[cs.CV]).
+
 @misc{Jia13caffe,
   Author = {Yangqing Jia},
   Title = { {Caffe}: An Open Source Convolutional Architecture for Fast Feature Embedding},
